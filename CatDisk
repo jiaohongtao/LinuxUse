@@ -2,4 +2,4 @@
 
 df -h
 
-echo "done"
+echo "\n执行完成"
